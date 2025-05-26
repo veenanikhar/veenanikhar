@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=veenanikhar" alt="veenanikhar" /></a> </p>
 
-- 🌱 I’m currently learning **Python, Flask API, PostgreSQL**
+- 🌱 I’m currently learning **Python, Django API, PostgreSQL**
 
 - 💬 Ask me about **Java, React, MySQL**
 
